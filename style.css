@@ -5,14 +5,14 @@ body {
 .header {
   height: 150px;
   background-color: red;
-  border-style: dots;
+  border-style: dashed;
   text-align: center;
   text-color: black;
 }
 
 .container{
   align: center;
-  background-color: black;
+  background-color: white;
   width:1000px;
   margin-right: auto;
   margin-left: auto;
@@ -24,7 +24,7 @@ body {
 }
 
 .content{
-  background-color: red;
+  background-color: white;
   padding: 10px;
   float: right;
 }
