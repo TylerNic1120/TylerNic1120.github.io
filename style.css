@@ -1,3 +1,36 @@
 body {
   font-family: Helvetica,Arial, sans-serif;
-  }
+}
+
+.header {
+  height: 150px;
+  background-color: red;
+  border-style: dots;
+  text-align: center;
+  text-color: black;
+}
+
+.container{
+  align: center;
+  background-color: black;
+  width:1000px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.nav{
+  width:180px;
+  float: left;
+}
+
+.content{
+  background-color: red;
+  padding: 10px;
+  float: right;
+}
+
+.footer{
+  background-color: grey;
+  text-align: right;
+  clear: both;
+}
